@@ -1,7 +1,7 @@
 // main.scss
 
 @font-face {
-    font-family: 'Academic M54';
+    font-family: 'PretendardVariable';
     src: url('../fonts/PretendardVariable.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
@@ -9,7 +9,7 @@
   
   // 나머지 SCSS 파일 import
   @import 'game';
-  @import 'thrid-game';
+  @import 'third-game';
 
   
   html, body {
